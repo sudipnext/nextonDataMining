@@ -15,9 +15,9 @@ The purpose of this repository is to document and showcase the practical work do
 | Lab Number | Description                       | Status       |
 |------------|-----------------------------------|--------------|
 | Lab 1      |  Load, Visualize, PreProcess and Build and evaluate a classification model to predict the presence of heart disease.   | ✅ Completed |
-| Lab 2      | Classification Techniques   | 🔄 In Progress |
-| Lab 3      | FP Growth and Association Algorithms         | ❌ Not Started |
-| Lab 4      | Clustering Techniques             | ❌ Not Started |
+| Lab 2      | Load, Visualize, PreProcess and Build and evaluate a classification model to predict the quality of wine.   | ✅ Completed |
+| Lab 3      | FP Growth and Association Algorithms  of Online Retail       | ✅ Completed |
+| Lab 4      | Clustering Techniques             | 🔄 In Progress |
 
 ## Labs
 
